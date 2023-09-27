@@ -1,0 +1,15 @@
+D:\Visual Studio\ProjetoDiscord\ProjetoDiscord\bin\Debug\DeltaProject.exe.config
+D:\Visual Studio\ProjetoDiscord\ProjetoDiscord\bin\Debug\DeltaProject.exe
+D:\Visual Studio\ProjetoDiscord\ProjetoDiscord\bin\Debug\DeltaProject.pdb
+D:\Visual Studio\ProjetoDiscord\ProjetoDiscord\bin\Debug\EntityFramework.dll
+D:\Visual Studio\ProjetoDiscord\ProjetoDiscord\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio\ProjetoDiscord\ProjetoDiscord\bin\Debug\EntityFramework.xml
+D:\Visual Studio\ProjetoDiscord\ProjetoDiscord\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio\ProjetoDiscord\ProjetoDiscord\obj\Debug\DeltaProject.csproj.AssemblyReference.cache
+D:\Visual Studio\ProjetoDiscord\ProjetoDiscord\obj\Debug\ProjetoDiscord.Migrations.MigracaoInicial.resources
+D:\Visual Studio\ProjetoDiscord\ProjetoDiscord\obj\Debug\DeltaProject.Properties.Resources.resources
+D:\Visual Studio\ProjetoDiscord\ProjetoDiscord\obj\Debug\DeltaProject.csproj.GenerateResource.cache
+D:\Visual Studio\ProjetoDiscord\ProjetoDiscord\obj\Debug\DeltaProject.csproj.CoreCompileInputs.cache
+D:\Visual Studio\ProjetoDiscord\ProjetoDiscord\obj\Debug\DeltaProject.csproj.CopyComplete
+D:\Visual Studio\ProjetoDiscord\ProjetoDiscord\obj\Debug\DeltaProject.exe
+D:\Visual Studio\ProjetoDiscord\ProjetoDiscord\obj\Debug\DeltaProject.pdb
