@@ -1,8 +1,8 @@
-﻿using ProjetoDiscord.Context;
+﻿using ProjectDelta.Context;
 using System;
 using System.Windows.Forms;
 
-namespace ProjetoDiscord
+namespace ProjectDelta
 {
     internal static class Program
     {

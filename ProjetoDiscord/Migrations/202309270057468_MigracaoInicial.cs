@@ -1,4 +1,4 @@
-﻿namespace ProjetoDiscord.Migrations
+﻿namespace ProjectDelta.Migrations
 {
     using System;
     using System.Data.Entity.Migrations;

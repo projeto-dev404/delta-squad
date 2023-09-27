@@ -1,9 +1,9 @@
-﻿using ProjetoDiscord.Context;
+﻿using ProjectDelta.Context;
 using System;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 
-namespace ProjetoDiscord
+namespace ProjectDelta
 {
     public class Usuario
     {

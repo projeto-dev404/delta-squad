@@ -1,6 +1,6 @@
 ﻿using System.Windows.Forms;
 
-namespace ProjetoDiscord
+namespace ProjectDelta
 {
     public partial class Form1 : Form
     {

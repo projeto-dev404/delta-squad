@@ -1,4 +1,4 @@
-﻿namespace ProjetoDiscord
+﻿namespace ProjectDelta
 {
     partial class Form1
     {

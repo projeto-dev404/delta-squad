@@ -1,7 +1,7 @@
-﻿using ProjetoDiscord.Context;
+﻿using ProjectDelta.Context;
 using System.Data.Entity;
 
-namespace ProjetoDiscord
+namespace ProjectDelta
 {
     public class Inicializacao
     {

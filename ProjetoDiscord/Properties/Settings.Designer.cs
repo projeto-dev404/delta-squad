@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ProjetoDiscord.Properties {
+namespace ProjectDelta.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
@@ -26,11 +26,11 @@ namespace ProjetoDiscord.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=COMPUTADOR\\SQLEXPRESS;Initial Catalog=ProjetoDiscord;Integrated Secur" +
-            "ity=True")]
-        public string ProjetoDiscordConnectionString {
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=COMPUTADOR\\SQLEXPRESS;Initial Catalog=ProjectDelta;Integrated Securit" +
+            "y=True")]
+        public string ProjectDeltaConnectionString {
             get {
-                return ((string)(this["ProjetoDiscordConnectionString"]));
+                return ((string)(this["ProjectDeltaConnectionString"]));
             }
         }
     }

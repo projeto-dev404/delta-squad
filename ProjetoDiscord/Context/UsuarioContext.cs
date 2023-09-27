@@ -1,7 +1,7 @@
 ﻿
 using System.Data.Entity;
 
-namespace ProjetoDiscord.Context
+namespace ProjectDelta.Context
 {
     public class UsuarioContext : DbContext
     {
